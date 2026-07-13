@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Makaronusmpp.aternos.me:33553"obte,
+    "port": 33553,
     "version": "",
     "try-creative": false
   },
